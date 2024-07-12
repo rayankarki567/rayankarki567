@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there! 👋
+
+I'm Rayan Karki.
+
+## Skills
+- Web Development: Next.js, HTML/CSS, JavaScript
+- Tools: Git, VS Code
 
 <!--
 **rayankarki567/rayankarki567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
